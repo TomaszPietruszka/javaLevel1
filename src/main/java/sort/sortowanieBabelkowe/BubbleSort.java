@@ -1,8 +1,8 @@
-package sort.bubblesort;
+package sort.sortowanieBabelkowe;
 
-public class Main {
+public class BubbleSort {
     public static void main(String[] args) {
-        int[] tab = {1, 2, 3, 4, 5, 9, 7};
+        int[] tab = {1, 2, 3, 4, 5,};
         int i;
         int j;
         int temp;
