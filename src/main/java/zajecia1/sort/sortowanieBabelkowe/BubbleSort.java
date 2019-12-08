@@ -1,4 +1,4 @@
-package sort.sortowanieBabelkowe;
+package zajecia1.sort.sortowanieBabelkowe;
 
 public class BubbleSort {
     public static void main(String[] args) {

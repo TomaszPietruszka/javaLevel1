@@ -1,4 +1,4 @@
-package sort.zlozonoscObliczeniowaFibonacci;
+package zajecia1.sort.zlozonoscObliczeniowaFibonacci;
 
 public class Main {
     public static void main(String[] args) {

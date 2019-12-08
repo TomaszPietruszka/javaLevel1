@@ -1,4 +1,4 @@
-package sort.sortowaniePrzezWybieranie;
+package zajecia1.sort.sortowaniePrzezWybieranie;
 import java.util.Arrays;
 
 public class SelectSort {

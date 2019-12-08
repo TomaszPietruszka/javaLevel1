@@ -1,4 +1,4 @@
-package sort.sortowaniePrzezWstawianie;
+package zajecia1.sort.sortowaniePrzezWstawianie;
 
 import java.util.Arrays;
 

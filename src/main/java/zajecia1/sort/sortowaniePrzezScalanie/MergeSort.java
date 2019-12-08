@@ -1,4 +1,4 @@
-package sort.sortowaniePrzezScalanie;
+package zajecia1.sort.sortowaniePrzezScalanie;
 
 import java.util.Arrays;
 
@@ -22,7 +22,7 @@ public class MergeSort {
             }
             tab1 = divideArrays(tab1);
             tab2 = divideArrays(tab2);
-
+// dokonczyc sortowanie tak zeby bylo do jednej zmiennej
 
         } else if (tablica.length == 2) {
             if (tablica[0] > tablica[1]) {
